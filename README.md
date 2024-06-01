@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My name is Hoyoung Lee, and I am a passionate expert in finance and Natural Language Processing (NLP) technologies. I am currently researching innovative solutions driven by data.
+My name is Hoyoung Lee, and I have a deep interest in finance and Natural Language Processing (NLP) technologies. I am currently researching innovative solutions driven by data.
 
 ### 🌱 Areas of Expertise and Experience
 
