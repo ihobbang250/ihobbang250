@@ -2,4 +2,4 @@
 
 ## Introduction
 
-Hi, My name is Hoyoung Lee. I am an undergraduate researcher, deeply interested in advancing Natural Language Processing and AI applications in finance.
+I am a graduate student researcher at the [UNIST Financial Engineering Lab](https://your-lab-website.com), specializing in AI applications for finance. My work involves leveraging LLMs to solve complex financial problems.
